@@ -17,12 +17,11 @@
 
 <script>
 export default {
-    name: "AppHeader"
+  name: "AppHeader"
 };
 </script>
 
 <style>
-    
 .header {
   display: flex;
   justify-content: space-between;
